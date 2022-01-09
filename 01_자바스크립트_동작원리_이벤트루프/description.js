@@ -18,6 +18,16 @@ function func3() {
 
 func1();
 
+
+
+
+
+
+
+
+
+
+
 // 이벤트 리스너 동작의 경우 이벤트 루프 (참고 원문: https://poiemaweb.com/js-event)
 function func1() {
   console.log('func1');
