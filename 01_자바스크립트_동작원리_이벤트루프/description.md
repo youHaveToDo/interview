@@ -36,6 +36,7 @@ DOM, Ajax(XMLHttpRequest), Timeout(setTimeout) 과 같이
 - 만약 Call Stack이 비어있다면 Event Queue 내의 task가 Call Stack으로 이동하고 실행된다.
 
 ![](./event-loop.gif)
+
 (원문) https://poiemaweb.com/js-event
 
 
