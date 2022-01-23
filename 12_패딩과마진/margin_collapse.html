@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Margin Collapse</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: #ccc;
+    }
+
+    .container {
+      width: 300px;
+      margin: 0 auto;
+      background-color: #fff;
+    }
+
+    .box {
+      width: 200px;
+      height: 200px;
+      border: 1px solid #333;
+      margin: 50px;
+      background-color: orangered;
+      font-size: 10rem;
+      font-weight: bold;
+      text-align: center;
+      color: rgba(255, 255, 255, .3);
+    }
+  </style>
+
+</head>
+
+
+<body>
+
+  <section class="container">
+    <div class="box">A</div>
+    <div class="box">B</div>
+  </section>
+
+</body>
+
+</html>
