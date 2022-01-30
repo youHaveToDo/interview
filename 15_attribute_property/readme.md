@@ -1,6 +1,3 @@
-[학습자료: developer.mozilla.org: CORS](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS)
-
-
 ## "attribute"와 "property"의 차이점은 무엇인가요?
 
 ### 사전정의
