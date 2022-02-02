@@ -1,4 +1,4 @@
-[학습자료: developer.mozilla.org: CORS](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS)
+[학습자료: Front End Interview Handbook](https://frontendinterviewhandbook.com/)
 
 
 ## "attribute"와 "property"의 차이점은 무엇인가요?
