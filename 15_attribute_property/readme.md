@@ -1,6 +1,5 @@
 [학습자료: Front End Interview Handbook](https://frontendinterviewhandbook.com/)
 
-
 ## "attribute"와 "property"의 차이점은 무엇인가요?
 
 ### 사전정의
