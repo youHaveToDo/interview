@@ -1,5 +1,5 @@
 # 개발자로서 알아야할 개념들
-1. 리액트 관련 - Virtual-DOM 이 무엇인가요?
+1. [리액트 관련 - Virtual-DOM 이 무엇인가요?](https://github.com/cslim0527/interview/tree/main/22_Virtual_DOM)
 2. 리액트 관련 - 렌더링 최적화를 어떻게 할 수 있나요? useMemo나 useCallback 등 최적화 메소드에 대해 설명해보세요.
 3. 리액트 관련 - 리렌더링 되는 조건은 무엇인가요?
 4. 자바스크립트 관련 - 실행 컨텍스트가 무엇인가요?
