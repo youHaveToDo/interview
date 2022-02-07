@@ -1,4 +1,4 @@
-[학습자료: null]()
+[학습자료: poiemaweb](https://poiemaweb.com/js-this#1-%ED%95%A8%EC%88%98-%ED%98%B8%EC%B6%9C)
 
 # this
 
