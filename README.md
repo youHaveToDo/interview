@@ -1,7 +1,7 @@
 # 개발자로서 알아야할 개념들
 1. [리액트 관련 - Virtual-DOM 이 무엇인가요?](https://github.com/cslim0527/interview/tree/main/22_Virtual_DOM)
 2. [리액트 관련 - 렌더링 최적화를 어떻게 할 수 있나요? useMemo나 useCallback 등 최적화 메소드에 대해 설명해보세요.](https://github.com/cslim0527/interview/tree/main/29_%EB%A6%AC%EC%95%A1%ED%8A%B8_%EB%A0%8C%EB%8D%94%EB%A7%81_%EC%B5%9C%EC%A0%81%ED%99%94)
-3. 리액트 관련 - 리렌더링 되는 조건은 무엇인가요?
+3. [리액트 관련 - 리렌더링 되는 조건은 무엇인가요?](https://github.com/cslim0527/interview/tree/main/29_%EB%A6%AC%EC%95%A1%ED%8A%B8_%EB%A0%8C%EB%8D%94%EB%A7%81_%EC%B5%9C%EC%A0%81%ED%99%94)
 4. 자바스크립트 관련 - 실행 컨텍스트가 무엇인가요?
 5. 자바스크립트 관련 - this는 어떻게 결정되나요?
 6. 자바스크립트 관련 - 클로저에 대해 설명해보세요.
