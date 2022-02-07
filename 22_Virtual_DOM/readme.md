@@ -1,4 +1,4 @@
-[학습자료: 누구든지 하는 리액트 #10 LifeCycle API (i)](https://www.youtube.com/watch?v=Na_kP7X6KGs)
+[학습자료: 10분 테코톡 🥁 지그의 Virtual DOM](https://www.youtube.com/watch?v=PN_WmsgbQCo)
 
 # Virtual DOM에 대해 설명하세요.
 위 질문은 브라우저 렌더링 과정, DOM에 대한 개념으로 꼬리질문이 가능하며, Virtual DOM의 동작 방식과
