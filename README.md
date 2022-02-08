@@ -6,7 +6,7 @@
 5. [자바스크립트 관련 - this는 어떻게 결정되나요?](https://github.com/cslim0527/interview/tree/main/10_this)
 6. [자바스크립트 관련 - 클로저에 대해 설명해보세요.](https://github.com/cslim0527/interview/tree/main/09_%ED%81%B4%EB%A1%9C%EC%A0%80)
 7. [자바스크립트 관련 - Event Loop에 대해 설명해보세요.](https://github.com/cslim0527/interview/tree/main/01_%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A3%A8%ED%94%84)
-8. 자바스크립트 관련 - Event Bubbling, Capturing, Delegation에 대해 설명해보세요.
+8. [자바스크립트 관련 - Event Bubbling, Capturing, Delegation에 대해 설명해보세요.](https://github.com/cslim0527/interview/tree/main/11_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%B2%84%EB%B8%94%EB%A7%81_%EC%BA%A1%EC%B2%98%EB%A7%81)
 9. [자바스크립트 관련 - Promise 객체는 무엇인가요?](https://github.com/cslim0527/interview/tree/main/30_Promise)
 10. 자바스크립트 관련 - Async/Await에 대해 설명해보세요. Async/Await의 예외처리가 까다로운 이유는 무엇인가요?
 11. 자바스크립트 관련 - 원시값에는 무엇이 있나요?
