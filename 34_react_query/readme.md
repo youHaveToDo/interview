@@ -1,3 +1,5 @@
+[React Query와 상태관리 :: 2월 우아한테크세미나](https://www.youtube.com/watch?v=MArE6Hy371c)
+
 # React Query와 상태관리
 - zero-config
 - 원하면 언제든 config
