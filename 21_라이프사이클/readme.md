@@ -162,7 +162,7 @@ class Example extends React.Component {
 const Example = () => {
     useEffect(() => {
         ...
-    });
+    },[state]);
 }
 ```
 
